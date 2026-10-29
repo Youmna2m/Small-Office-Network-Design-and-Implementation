@@ -1,0 +1,1 @@
+Configured a small office network in Cisco Packet Tracer, implementing VLAN segmentation, 802.1Q trunking, and Router-on-a-Stick for inter-VLAN routing. Applied Port Security with sticky MAC learning, secured unused ports, and verified network connectivity and configurations. 
